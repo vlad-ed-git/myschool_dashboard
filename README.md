@@ -63,7 +63,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to see the a
   - Necessary for forms, interactive UI, accessing browser APIs
   - Example: `LoginForm.tsx` needs to be a Client Component to handle form submission
 
-###### Most of our code will be in client components
+#### Most of our code will be in client components. As we are using NextJS only for the front end.
 
 ### Next Class
 
