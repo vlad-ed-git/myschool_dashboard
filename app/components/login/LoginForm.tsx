@@ -20,7 +20,7 @@ export default function LoginForm() {
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     // Handle login logic here
-    console.log("Login:", { email});
+    alert(`We are logging in with Email: ${email}`);
   };
 
   return (
